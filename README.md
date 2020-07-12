@@ -11,17 +11,12 @@ This repo contains the code and files for the DS 1 project for BDS group.
 
 ### Git installation
 
-Check to see if you already have Git installed by launching your Command Prompt window and typing the command below. Macbook should already have Git available through Terminal.
+Macbook should already have Git available through Terminal. To check if you already have Git installed in Windows, launch the Command Prompt window and type the command below. If Git is installed the system will report back the Git version. If not click [Git for Windows](https://git-scm.com/download/win) to install.
 
 ```sh
 git --version
 ```
 
-If you need to install Git for Windows, use this link 
-
-```sh
-https://git-scm.com/download/win
-```
 ### Repository setup
 
 To get all the project files on your local machine, we need to clone the project. Using Command Prompt/Teminal, go to your class folder where you store all your class notes and run the git clone command below. This will create a new project folder and clone the project files to it. You will need to use your GitHub credentials to authenticate this request.
