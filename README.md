@@ -70,3 +70,7 @@ git push -u origin feature/sqlite_database
 ```
 
 In the command above we set -u flag to tell Git to create the feature/sqlite_database branch in the GitHub repository. In Git "origin" is shorthand for the remote repository that a project was originally cloned from.
+
+### Video Tutorial
+
+See [GitHub Basics](https://drive.google.com/file/d/1FIS6uwfCjfkoKXXURyTPXyxMFzUm3lFs/view?usp=sharing) video tutorial.
