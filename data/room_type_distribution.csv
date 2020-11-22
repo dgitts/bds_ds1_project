@@ -1,21 +1,21 @@
 city,room_type,pct
 Dallas,Entire home/apt,83.0
-Arlington,Entire home/apt,76.0
-Fort-Worth,Entire home/apt,76.0
-Plano,Entire home/apt,68.0
-McKinney,Entire home/apt,63.0
-Frisco,Entire home/apt,61.0
-Irving,Entire home/apt,56.0
+Fort-Worth,Entire home/apt,77.0
+Arlington,Entire home/apt,73.0
+Plano,Entire home/apt,69.0
+McKinney,Entire home/apt,68.0
+Frisco,Entire home/apt,62.0
+Grand Prairie,Entire home/apt,57.0
+Richardson,Private room,55.0
 Denton,Entire home/apt,52.0
-Grand Prairie,Private room,51.0
-Richardson,Entire home/apt,51.0
-Grand Prairie,Entire home/apt,48.0
-Richardson,Private room,48.0
+Irving,Entire home/apt,51.0
 Denton,Private room,46.0
-Frisco,Private room,39.0
-Irving,Private room,36.0
-McKinney,Private room,36.0
-Plano,Private room,32.0
+Richardson,Entire home/apt,44.0
+Grand Prairie,Private room,42.0
+Irving,Private room,39.0
+Frisco,Private room,38.0
+Plano,Private room,31.0
+McKinney,Private room,30.0
+Arlington,Private room,25.0
 Fort-Worth,Private room,22.0
-Arlington,Private room,21.0
-Dallas,Private room,14.0
+Dallas,Private room,16.0
