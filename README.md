@@ -9,3 +9,8 @@ We analyze active property listings in the top 10 markets in the DFW area, and p
 * Matt Kimuyu
 * Oscar Omurwa
 * David Gitonga
+
+### Running the program
+1. Run airdna_metrics_scraper - This will scrape market metrics for the top 10 DFW markets.
+2. Run fetch_property_listings - This will fetch active property listings on Airbnb using an API interface and merge property listings with a Texas Airbnb dataset.
+3. Run kpi_charts - This will generate and show various KPI charts for the market.
